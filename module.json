@@ -1,0 +1,15 @@
+{
+    "id": "oauth2-authentication",
+    "title": "Oauth2 authentication for foundryvtt.",
+    "description": "Attempt at an authentication module for foundryvtt using oauth2. Borrowing foundryvtt-discord-auth as a starting point.",
+    "authors": [
+      {
+      "name": "Dock O'Neal"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11"
+    }
+  }
