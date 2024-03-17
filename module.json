@@ -7,6 +7,9 @@
       "name": "Dock O'Neal"
       }
     ],
+    "scripts": [
+        "scrpts/test.js"
+    ],
     "version": "1.0.0",
     "compatibility": {
       "minimum": "10",
